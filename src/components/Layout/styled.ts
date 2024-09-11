@@ -85,10 +85,10 @@ export const Footer = styled.footer `
 `;
 
 export const Container = styled.div `
+  height: 650px;
   width: 50%;
   max-width: 600px;
   min-width: 320px;
-  max-height: 800px;
   overflow-y: auto;
   overflow-x: hidden;
   flex-grow: 1;
