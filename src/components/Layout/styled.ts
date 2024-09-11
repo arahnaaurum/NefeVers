@@ -85,7 +85,7 @@ export const Footer = styled.footer `
 `;
 
 export const Container = styled.div `
-  height: 650px;
+  height: 500px;
   width: 50%;
   max-width: 600px;
   min-width: 320px;
