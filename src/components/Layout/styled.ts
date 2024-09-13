@@ -99,7 +99,7 @@ export const Container = styled.div `
     width: 8px;
   }
   &::-webkit-scrollbar-thumb {
-    background-color: var(--light);
+    background-color: var(--dark);
     border-radius: 4px;
   }
 `;
